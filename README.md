@@ -1,4 +1,4 @@
-# apache-php7.2-fpm SSL Self-Certificate
+# apache-php8.0-fpm SSL Self-Certificate
 
 This repo is used apache2.4 with PHP version 8.0 on FastCGI service.
 
